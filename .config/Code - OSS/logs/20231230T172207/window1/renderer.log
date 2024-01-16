@@ -1,0 +1,6 @@
+2023-12-30 17:22:13.900 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/etc/profile","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-12-30 17:22:15.543 [info] Started local extension host with pid 866.
+2023-12-30 17:22:18.539 [info] [perf] Render performance baseline is 41ms
+2023-12-30 17:23:56.582 [error] [text file model] handleSaveError(163) - exit - resulted in a save error: Error: Unable to write file '/etc/profile' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/profile') file:///etc/profile
+2023-12-30 17:24:00.640 [error] [text file model] handleSaveError(163) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/profile
+2023-12-30 17:24:04.910 [error] [text file model] handleSaveError(163) - exit - resulted in a save error: Error: Unable to write file '/etc/profile' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/profile') file:///etc/profile

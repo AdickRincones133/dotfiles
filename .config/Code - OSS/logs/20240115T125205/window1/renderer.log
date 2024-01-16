@@ -1,0 +1,10 @@
+2024-01-15 12:52:11.629 [info] Started local extension host with pid 1925.
+2024-01-15 12:52:16.224 [info] [perf] Render performance baseline is 38ms
+2024-01-15 12:54:53.934 [error] Unable to read file '/etc/profile' (Error: File not modified since): Error: Unable to read file '/etc/profile' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:645:18798)
+    at n.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:38735

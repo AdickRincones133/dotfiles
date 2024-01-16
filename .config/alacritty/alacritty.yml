@@ -1,0 +1,20 @@
+font:
+  bold:
+    family: UbuntuMono Nerd Font
+  italic:
+    family: UbuntuMono Nerd Font
+  normal:
+    family: UbuntuMono Nerd Font
+  size: 14.0
+window:
+  opacity: 0.95
+  padding:
+    x: 3
+    y: 3
+cursor:
+  style:
+    shape: Beam
+    blinking: Always
+  blink_interval: 500
+  unfocused_hollow: true
+  thickness: 0.15

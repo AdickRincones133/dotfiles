@@ -1,0 +1,27 @@
+[cursor]
+blink_interval = 500
+thickness = 0.15
+unfocused_hollow = true
+
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "UbuntuMono Nerd Font"
+
+[font.italic]
+family = "UbuntuMono Nerd Font"
+
+[font.normal]
+family = "UbuntuMono Nerd Font"
+
+[window]
+opacity = 0.7
+
+[window.padding]
+x = 3
+y = 3
